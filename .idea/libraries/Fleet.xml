@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Fleet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Fleet/dist/Fleet.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
